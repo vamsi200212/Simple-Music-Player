@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="no_songs_found">NO SONGS FOUND</string>
+    <string name="songs">SONGS</string>
+    <string name="music_name">music name</string>
+    <string name="title_of_the_song">title of the song</string>
+</resources>
